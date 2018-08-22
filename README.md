@@ -9,3 +9,6 @@ PyTorch implementation of different types of autoencoders
 
 ## Vanilla Variational Autoencoder loss:
 ![loss](https://github.com/Sirius79/autoencoders/blob/master/images/vae_loss.PNG)
+
+## Convolutional Variational Autoencoder loss:
+![loss](https://github.com/Sirius79/autoencoders/blob/master/images/cvae_loss.PNG)
